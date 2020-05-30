@@ -164,3 +164,5 @@ jsonContent:
 # 是否开启访问量统计功能(不蒜子)
 busuanzi:
  enable: true    
+
+ aboutme: <br>坚持记录<br>
