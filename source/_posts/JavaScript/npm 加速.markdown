@@ -19,7 +19,7 @@ npm config set registry https://registry.npm.taobao.org
 
 npm config get registry   如果返回https://registry.npm.taobao.org，说明镜像配置成功。
 
-
+<!-- more -->
 
 
 二、通过使用cnpm安装

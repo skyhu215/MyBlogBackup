@@ -20,7 +20,6 @@ menu:
 ```
 
 
-
 ####  添加 categories 到menu菜单
 
 在yilia主题下的主配置文件_config.xml中找到menu,并把categories添加进去
@@ -31,7 +30,7 @@ menu:
   分类: /categories
   归档: /archives
 ```
-
+<!-- more -->
 
 
 ####  hexo yilia主题配置menu不生效

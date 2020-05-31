@@ -12,7 +12,7 @@ tags:
 Hexo官方网站上也收集了一些主题
 地址：[https://hexo.io/themes/](https://link.jianshu.com/?t=https://hexo.io/themes/)
 
-
+<!-- more -->
 
 比较看好两款主题:
 

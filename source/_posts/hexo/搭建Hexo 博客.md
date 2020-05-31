@@ -36,6 +36,8 @@ tags:
 
 从Node.js 官网安装Node.js ,下载Node.js安装包安装,安装完Node.js电脑就会有Node 环境和 NPM
 
+<!-- more -->
+
 #### 安装cnpm
 
 ```
