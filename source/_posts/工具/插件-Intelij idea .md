@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Intelij idea 插件
+title: 插件-Intelij idea 
 date: 2020-05-29 22:08:01
 tags:
   - 工具
 ---
 
-**1、Free-idea-mybatis**
+### Idea 扩展
+
+**1、Free-idea-mybatis**   
 
 mybatis xml和对应的mapper之间来回切换的时候，有时候不同人开发，放置的位置又不同，使用此插件后，来回切换的时候异常方便，和所放置的位置无关~
 
 
+ **Mybatis 工具：Free Mybatis plugin**
 
 
 
@@ -97,8 +100,17 @@ https://github.com/alibaba/p3c/blob/master/idea-plugin/README_cn.md
 代码生成工具：CodeMaker
 代码质量检查工具：SonarLint
 单元测试测试生成工具：JUnitGenerator
-Mybatis 工具：Free Mybatis plugin
 JSON转领域对象工具：GsonFormat
 字符串工具：String Manipulation
 Redis可视化：Iedis
 K8s工具：Kubernetes
+
+### Idea 主题
+
+- IDEA Theme官网: https://plugins.jetbrains.com/search?headline=164-theme&isPaid=false&tags=Theme
+
+-  riaway官网: https://www.riaway.com/
+
+-  easycolor官网: http://www.soft-hub.cn/index.php
+
+-  Color Themes官网: http://color-themes.com/?view=index

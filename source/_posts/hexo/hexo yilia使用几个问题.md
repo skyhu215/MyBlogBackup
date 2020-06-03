@@ -1,12 +1,9 @@
 ---
 layout: post
-title: hexo guide
+title: Hexo yilia使用的几个问题
 tags:
   - hexo
 ---
-
-## Hexo yilia使用的几个问题
-
 
 
 #### 增加归档菜单
