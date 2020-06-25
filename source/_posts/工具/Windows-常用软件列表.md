@@ -15,6 +15,7 @@ tags:
   - Oracle  VM VirtualBox
   - 印象笔记
   - OneNote
+  - xmind 思维导图
   
   
   
